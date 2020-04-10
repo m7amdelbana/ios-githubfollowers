@@ -1,0 +1,38 @@
+/* 
+  Localizable.strings
+  GitHubFollowers
+ 
+  Created by Mohamed Elbana on 4/1/20.
+  Copyright © 2020 Mohamed Elbana. All rights reserved.
+*/
+
+"empty_followers_message" = "The user doesn't have any followers. Go follow him.";
+"search_for_a_username" = "Search for a username";
+"get_followers" = "Get followers";
+"enter_username" = "Enter username";
+"enter_username_message" = "Please enter a username. We need to know who to look for.";
+"ok" = "OK";
+"enter_a_username" = "Enter a username";
+"search" = "Search";
+"favorites" = "Favorites";
+"na" = "NA";
+"no_bio_message" = "No bio available for this user.";
+"gitgub_profile" = "Github profile";
+"public_repos" = "Public repos";
+"public_gists" = "Public gists";
+"followers" = "Followers";
+"following" = "Following";
+"error_title" = "Something went wrong!";
+"error_message" = "Unable to complete the request.";
+"github_since" = "Github since";
+"invalid_url" = "Invalid url";
+"invalid_url_message" = "the attached url is invalid. Please check it.";
+"no_followers" = "No followers";
+"this_user_exist" = "This user exist!";
+"already_favorited" = "You already favourited this user.";
+"success" = "Success!";
+"user_added_to_favorites" = "The user added to your favorites.";
+"no_favorites" = "No favorites";
+"no_favorites_message" = "You don't have any favorites. Go add some of them.";
+"unable_to_remove" = "Unable to remove";
+"unable_to_remove_message" = "Unable to remove this user. Please try again.";
